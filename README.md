@@ -45,6 +45,7 @@ autonomy, multi-vehicle operations, and field-ready developer tools.
 
 [Portfolio](https://joomtalk.ir/) |
 [CV](https://cv.joomtalk.ir/) |
+[Digital vCard](https://vcard.joomtalk.ir/) |
 [LinkedIn](https://www.linkedin.com/in/alireza787b/) |
 [ORCID](https://orcid.org/0009-0007-2881-2579) |
 [YouTube](https://www.youtube.com/@alirezaghaderi)
