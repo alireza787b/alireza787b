@@ -50,4 +50,4 @@ autonomy, multi-vehicle operations, and field-ready developer tools.
 [ORCID](https://orcid.org/0009-0007-2881-2579) |
 [YouTube](https://www.youtube.com/@alirezaghaderi)
 
-For serious collaboration: [a.ghaderi@awareai.ai](mailto:a.ghaderi@awareai.ai)
+For serious collaboration: [p30planets@gmail.com](mailto:p30planets@gmail.com)
