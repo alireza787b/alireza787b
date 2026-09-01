@@ -8,7 +8,7 @@ operational aviation with practical engineering: pilot-state monitoring,
 realistic flight simulation, visual autonomy, multi-vehicle operations, and
 field-ready developer tools.
 
-- Head of Flight Operations Engineering at AnaJet Airlines, supporting
+- Head of Flight Operations Engineering at ANAJet Airlines, supporting
   launch-stage operations in Tehran and Kish
 - Founder and CEO of AwareAI
 - PhD in Aerospace Engineering, Sharif University of Technology
