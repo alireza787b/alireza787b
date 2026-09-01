@@ -1,12 +1,16 @@
 # Alireza Ghaderi, PhD
 
-**Aerospace engineer | AI researcher | University instructor | Autonomous systems builder**
+**Head of Flight Operations Engineering | Aerospace engineer | AI researcher | Founder | Autonomous systems builder**
 
-I work across civil aviation, artificial intelligence, robotics, flight
-simulation, and autonomous systems. My projects connect research with practical
-engineering: pilot-state monitoring, realistic flight simulation, visual
-autonomy, multi-vehicle operations, and field-ready developer tools.
+I work across airline operations, civil aviation, artificial intelligence,
+robotics, flight simulation, and autonomous systems. My projects connect
+operational aviation with practical engineering: pilot-state monitoring,
+realistic flight simulation, visual autonomy, multi-vehicle operations, and
+field-ready developer tools.
 
+- Head of Flight Operations Engineering at AnaJet Airlines, supporting
+  launch-stage operations in Tehran and Kish
+- Founder and CEO of AwareAI
 - PhD in Aerospace Engineering, Sharif University of Technology
 - Flight Test Laboratory Instructor
 - CPL/IR pilot with ATP Integrated theoretical ground training completed
@@ -32,8 +36,9 @@ autonomy, multi-vehicle operations, and field-ready developer tools.
 
 ## Technical Focus
 
-- **Aviation:** flight testing, aircraft performance, human factors, fatigue
-  risk management, simulation, and airline analytics
+- **Aviation:** flight operations engineering, aircraft performance, procedure
+  support, flight testing, human factors, fatigue risk management, simulation,
+  and airline analytics
 - **AI:** multimodal learning, computer vision, gaze and head-pose tracking, AI
   agents, MCP, and human-in-the-loop systems
 - **Robotics:** PX4, MAVLink, MAVSDK, cooperative autonomy, mission planning,
